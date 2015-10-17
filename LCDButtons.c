@@ -18,7 +18,7 @@ task main()
 {
   while(true)
   {
-    // Clear LCD Lines
+    // Clear Both LCD Lines
     clearLCDLine(0);
     clearLCDLine(1);
 
